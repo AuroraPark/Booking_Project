@@ -33,7 +33,23 @@
 
 ## 개발 코드
 
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582453-86cccf00-d3c8-11e9-8278-95355741fe8f.JPG)
 
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582454-86cccf00-d3c8-11e9-8468-d248434afd13.JPG)
+
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582455-86cccf00-d3c8-11e9-8547-29b081de8334.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582456-87656580-d3c8-11e9-8701-9885e6bd7fe3.JPG)
+
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582467-88969280-d3c8-11e9-86c4-6a009a6ba8d0.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582466-88969280-d3c8-11e9-827d-78dc225446b2.JPG)
+
+
+## 서버 구성
 
 
 ## 업데이트 내역
@@ -76,5 +92,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDgzOTc4N119
+eyJoaXN0b3J5IjpbLTE1OTg0NDYyMjRdfQ==
 -->
