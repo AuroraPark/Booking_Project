@@ -19,15 +19,22 @@
 
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582450-86343880-d3c8-11e9-85c8-56a6c5195ab0.JPG)
 
+## 추가 기능
+
+> 페이스북 문의
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582451-86343880-d3c8-11e9-99b4-f52ab064a1e4.JPG)
+
+> 로그인 기능 및 숙박 예약 게시판
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582452-86cccf00-d3c8-11e9-8367-a6a6a4e52550.JPG)
+
+
 
 ## 개발 코드
 
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 
-```sh
-make install
-npm test
-```
+
 
 ## 업데이트 내역
 
@@ -69,5 +76,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDQ0NDM4MF19
+eyJoaXN0b3J5IjpbMTA2MDgzOTc4N119
 -->
