@@ -74,10 +74,11 @@
 ## 개발환경
 
 -   Visual Studio Code
+-   AWS EC2, mysqld, php, Firebase Authentication, Firebase Database
 
 ## 정보
 -   숙소 예약 관리를 Firebase 플랫폼을 이용하여 실시간으로 연동해 주는 사이트 
--   AWS EC2, mysqld, php, Firebase Authentication, Firebase Database
+
 -   개발자: 박현민
 -   문의사항:  [dev.hmpark@gmail.com](dev.hmpark@gmail.com)
 
@@ -91,5 +92,5 @@
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM4MjE5MjZdfQ==
+eyJoaXN0b3J5IjpbLTc3NjQ1MDQ5NF19
 -->
