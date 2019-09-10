@@ -50,22 +50,24 @@
 
 
 ## 서버 구성
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582441-85030b80-d3c8-11e9-9843-48bf2cdc5b46.JPG)
+
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582442-85030b80-d3c8-11e9-8b9e-ece6d5ef81ff.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582443-85030b80-d3c8-11e9-9d32-9e67f953022a.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582445-859ba200-d3c8-11e9-8e1a-6b210f40a11d.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582446-859ba200-d3c8-11e9-8bf9-0449be173972.JPG)
 
 
 ## 업데이트 내역
 
 * 0.2.1
-    * 수정: 문서 업데이트 (모듈 코드 동일)
-* 0.2.0
-    * 수정: `setDefaultXYZ()` 메서드 제거
-    * 추가: `init()` 메서드 추가
-* 0.1.1
-    * 버그 수정: `baz()` 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)
-* 0.1.0
-    * 첫 출시
-    * 수정: `foo()` 메서드 네이밍을 `bar()`로 수정
+   
 * 0.0.1
-    * 작업 진행 중
+    * ELECTRON 데스크탑 앱 작업 진행 중
 
 ## 정보
 
@@ -92,5 +94,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg0NDYyMjRdfQ==
+eyJoaXN0b3J5IjpbMTg1MzY2MjM1MV19
 -->
