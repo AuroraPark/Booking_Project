@@ -5,11 +5,12 @@
 ![](https://user-images.githubusercontent.com/47839204/64582459-87656580-d3c8-11e9-8e50-d0e617c3c6f0.JPG)
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582460-87fdfc00-d3c8-11e9-9e1d-7a13e209e86d.JPG)
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582461-87fdfc00-d3c8-11e9-99e4-012509e00ed2.JPG)
+
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582440-846a7500-d3c8-11e9-9a1b-b461d34fa8ef.JPG)
+
 ## 사이트 미리보기
 
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
-
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 ## 개발 코드
 
@@ -60,5 +61,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MjkyNzkzXX0=
+eyJoaXN0b3J5IjpbMjgwODg3MDEyXX0=
 -->
