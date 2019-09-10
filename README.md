@@ -57,6 +57,8 @@
 
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582443-85030b80-d3c8-11e9-9d32-9e67f953022a.JPG)
 
+> DB 구성
+
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582445-859ba200-d3c8-11e9-8e1a-6b210f40a11d.JPG)
 
 ![enter image description here](https://user-images.githubusercontent.com/47839204/64582446-859ba200-d3c8-11e9-8bf9-0449be173972.JPG)
@@ -94,5 +96,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2Mzg2NjddfQ==
+eyJoaXN0b3J5IjpbMTk2MTAzMzQ3Nl19
 -->
