@@ -11,6 +11,14 @@
 
 ## 사이트 미리보기
 
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582447-859ba200-d3c8-11e9-9fb5-982893d918d3.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582448-859ba200-d3c8-11e9-9bd3-a76c78c6460d.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582449-86343880-d3c8-11e9-8373-42f94e1505e5.JPG)
+
+![enter image description here](https://user-images.githubusercontent.com/47839204/64582450-86343880-d3c8-11e9-85c8-56a6c5195ab0.JPG)
+
 
 ## 개발 코드
 
@@ -61,5 +69,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwODg3MDEyXX0=
+eyJoaXN0b3J5IjpbMTI3NDQ0NDM4MF19
 -->
