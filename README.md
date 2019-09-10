@@ -64,10 +64,10 @@
 
 ## 업데이트 내역
 
-* 0.2.1
-   
-* 0.0.1
+* 0.1.1
     * ELECTRON 데스크탑 앱 작업 진행 중
+* 0.0.1
+    * 웹 개발 완료   
 
 ## 정보
 
@@ -94,5 +94,5 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzY2MjM1MV19
+eyJoaXN0b3J5IjpbLTEwMjI2Mzg2NjddfQ==
 -->
