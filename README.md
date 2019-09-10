@@ -1,35 +1,17 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 숙소 예약 사이트
+> 실시간 예약 확인이 가능한 반응형 웹 페이지 구현
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
-
-![](../header.png)
-
-## 설치 방법
-
-OS X & 리눅스:
-
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
-
-## 사용 예제
 ![](https://user-images.githubusercontent.com/47839204/64582458-87656580-d3c8-11e9-8fcd-b1d702286a9e.JPG)
+![](https://user-images.githubusercontent.com/47839204/64582459-87656580-d3c8-11e9-8e50-d0e617c3c6f0.JPG)
+
+
+## 사이트 미리보기
+
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
 _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
-## 개발 환경 설정
+## 개발 코드
 
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 
