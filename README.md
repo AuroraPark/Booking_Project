@@ -72,18 +72,11 @@
     * 웹 개발 완료   
 
 ## 정보
--   숙소 예약 관리를 
--   서버: Node.js + MariaDB
--   개발자: 이근혁
--   문의사항:  [lghlove0509@naver.com](mailto:lghlove0509@naver.com)
+-   숙소 예약 관리를 Firebase 플랫폼을 이용하여 실시간으로 연동해 주는 사이트 
+-   서버: 
+-   개발자: 박현민
+-   문의사항:  [dev.hmpark@gmail.com](dev.hmpark@gmail.com)
 
-## 기여 방법
-
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
-2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
-3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
-4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
@@ -94,5 +87,5 @@
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM0MzYyODJdfQ==
+eyJoaXN0b3J5IjpbLTEzOTM2OTQwODZdfQ==
 -->
