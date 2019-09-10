@@ -1,5 +1,5 @@
 # 숙소 예약 사이트
-> 실시간 예약 확인이 가능한 반응형 웹 페이지 구현
+> 숙소 예약 현황을 실시간으로 확인이 가능한 반응형 웹 페이지입니다.
 
 ![](https://user-images.githubusercontent.com/47839204/64582458-87656580-d3c8-11e9-8fcd-b1d702286a9e.JPG)
 ![](https://user-images.githubusercontent.com/47839204/64582459-87656580-d3c8-11e9-8e50-d0e617c3c6f0.JPG)
@@ -71,6 +71,10 @@
 * 0.0.1
     * 웹 개발 완료   
 
+## 개발환경
+
+-   Visual Studio Code
+
 ## 정보
 -   숙소 예약 관리를 Firebase 플랫폼을 이용하여 실시간으로 연동해 주는 사이트 
 -   서버: 
@@ -87,5 +91,5 @@
 [wiki]: https://github.com/yourname/yourproject/wiki
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM2OTQwODZdfQ==
+eyJoaXN0b3J5IjpbLTE3NDI0Nzk5NjBdfQ==
 -->
